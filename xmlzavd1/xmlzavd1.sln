@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "xmlzavd1", "xmlzavd1\xmlzavd1.csproj", "{3374CFB3-87D6-4DF8-889E-F75D1C1FCB2E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3374CFB3-87D6-4DF8-889E-F75D1C1FCB2E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3374CFB3-87D6-4DF8-889E-F75D1C1FCB2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3374CFB3-87D6-4DF8-889E-F75D1C1FCB2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3374CFB3-87D6-4DF8-889E-F75D1C1FCB2E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CBF908ED-0BCB-4B17-818A-55A5F4B64042}
+	EndGlobalSection
+EndGlobal

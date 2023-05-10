@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\в\уник\перший курс\алгоритмізація та програмування\xmlzavd1\xmlzavd1\obj\Debug\xmlzavd1.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\в\уник\перший курс\алгоритмізація та програмування\xmlzavd1\xmlzavd1\obj\Debug\xmlzavd1.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\в\уник\перший курс\алгоритмізація та програмування\xmlzavd1\xmlzavd1\obj\Debug\xmlzavd1.Form1.resources
+C:\Users\User\Desktop\в\уник\перший курс\алгоритмізація та програмування\xmlzavd1\xmlzavd1\obj\Debug\xmlzavd1.Properties.Resources.resources
+C:\Users\User\Desktop\в\уник\перший курс\алгоритмізація та програмування\xmlzavd1\xmlzavd1\obj\Debug\xmlzavd1.csproj.GenerateResource.cache
+C:\Users\User\Desktop\в\уник\перший курс\алгоритмізація та програмування\xmlzavd1\xmlzavd1\obj\Debug\xmlzavd1.csproj.CoreCompileInputs.cache
